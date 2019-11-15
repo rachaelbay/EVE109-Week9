@@ -1,0 +1,135 @@
+Sample_Name,Collection Date,Location Code,Locality,Sex
+NC_001,10/27/00,NC,North Carolina,Unknown
+NC_002,10/27/00,NC,North Carolina,Unknown
+NC_003,10/27/00,NC,North Carolina,Unknown
+NC_004,10/27/00,NC,North Carolina,Unknown
+NC_005,10/27/00,NC,North Carolina,Unknown
+NC_006,10/27/00,NC,North Carolina,Unknown
+NC_007,10/27/00,NC,North Carolina,Unknown
+NC_008,10/27/00,NC,North Carolina,Unknown
+NC_009,10/27/00,NC,North Carolina,Unknown
+NC_010,10/27/00,NC,North Carolina,Unknown
+NC_011,10/27/00,NC,North Carolina,Unknown
+NC_012,10/27/00,NC,North Carolina,Unknown
+NC_013,10/27/00,NC,North Carolina,Unknown
+NC_014,10/27/00,NC,North Carolina,Unknown
+NC_015,10/27/00,NC,North Carolina,Unknown
+NC_016,10/27/00,NC,North Carolina,Unknown
+NC_017,10/27/00,NC,North Carolina,Unknown
+NC_018,10/27/00,NC,North Carolina,Unknown
+NC_019,10/27/00,NC,North Carolina,Unknown
+NC_020,10/27/00,NC,North Carolina,Unknown
+NC_021,10/27/00,NC,North Carolina,Unknown
+NC_022,10/27/00,NC,North Carolina,Unknown
+NC_023,10/27/00,NC,North Carolina,Unknown
+NC_024,10/27/00,NC,North Carolina,Unknown
+NC_025,10/27/00,NC,North Carolina,Unknown
+NC_026,10/27/00,NC,North Carolina,Unknown
+NC_027,10/27/00,NC,North Carolina,Unknown
+NC_028,10/27/00,NC,North Carolina,Unknown
+AK_001,9/8/98,TB,"Tampa Bay, FL ",Female
+AK_003,11/11/98,TB,"Tampa Bay, FL ",Male
+AK_004,9/8/98,TB,"Tampa Bay, FL ",Female
+AK_005,9/8/98,TB,"Tampa Bay, FL ",Female
+AK_006,9/8/98,TB,"Tampa Bay, FL ",Male
+AK_007,9/8/98,TB,"Tampa Bay, FL ",Male
+AK_008,9/8/98,TB,"Tampa Bay, FL ",Male
+AK_009,9/8/98,TB,"Tampa Bay, FL ",Female
+AK_010,9/10/98,TB,"Tampa Bay, FL ",Female
+AK_011,9/10/98,TB,"Tampa Bay, FL ",Female
+AK_012,9/10/98,TB,"Tampa Bay, FL ",Female
+AK_013,9/15/98,TB,"Tampa Bay, FL ",Male
+AK_014,11/10/98,TB,"Tampa Bay, FL ",Female
+AK_015,9/15/98,TB,"Tampa Bay, FL ",Male
+AK_016,11/11/98,TB,"Tampa Bay, FL ",Female
+AK_017,11/10/98,TB,"Tampa Bay, FL ",Male
+AK_018,11/10/98,TB,"Tampa Bay, FL ",Male
+AK_019,11/11/98,TB,"Tampa Bay, FL ",Female
+AK_020,9/17/98,TB,"Tampa Bay, FL ",Male
+AK_021,8/11/98,TB,"Tampa Bay, FL ",Male
+AK_022,9/8/98,TB,"Tampa Bay, FL ",Male
+AK_023,9/8/98,TB,"Tampa Bay, FL ",Female
+AK_024,11/11/98,TB,"Tampa Bay, FL ",Male
+AK_025,9/10/98,TB,"Tampa Bay, FL ",Male
+AK_026,9/10/98,TB,"Tampa Bay, FL ",Female
+AK_027,11/11/98,TB,"Tampa Bay, FL ",Male
+AK_028,6/18/98,TB,"Tampa Bay, FL ",Male
+AK_029,6/18/98,TB,"Tampa Bay, FL ",Male
+AK_030,6/18/98,TB,"Tampa Bay, FL ",Female
+AK_031,8/4/98,TB,"Tampa Bay, FL ",Female
+AK_032,8/5/98,TB,"Tampa Bay, FL ",Female
+AK_033,8/5/98,TB,"Tampa Bay, FL ",Male
+AK_034,8/11/98,TB,"Tampa Bay, FL ",Male
+AK_035,4/28/98,TB,"Tampa Bay, FL ",Male
+AK_036,5/20/98,TB,"Tampa Bay, FL ",Male
+AK_037,5/20/98,TB,"Tampa Bay, FL ",Male
+LK_001,6/1/98,FB,"Florida Bay, FL",Male
+LK_002,6/1/98,FB,"Florida Bay, FL",Female
+LK_003,6/1/98,FB,"Florida Bay, FL",Female
+LK_004,6/1/98,FB,"Florida Bay, FL",Male
+LK_005,6/1/98,FB,"Florida Bay, FL",Male
+LK_006,6/1/98,FB,"Florida Bay, FL",Male
+LK_007,6/2/98,FB,"Florida Bay, FL",Male
+LK_008,6/3/98,FB,"Florida Bay, FL",Female
+LK_009,6/3/98,FB,"Florida Bay, FL",Male
+LK_010,6/3/98,FB,"Florida Bay, FL",Female
+LK_011,6/2/98,FB,"Florida Bay, FL",Male
+LK_012,6/2/98,FB,"Florida Bay, FL",Male
+LK_013,6/2/98,FB,"Florida Bay, FL",Male
+LK_014,6/1/98,FB,"Florida Bay, FL",Female
+LK_015,6/2/98,FB,"Florida Bay, FL",Male
+LK_016,6/2/98,FB,"Florida Bay, FL",Male
+LK_017,6/1/98,FB,"Florida Bay, FL",Female
+LK_018,6/1/98,FB,"Florida Bay, FL",Female
+LK_019,6/1/98,FB,"Florida Bay, FL",Female
+LK_020,5/6/98,FB,"Florida Bay, FL",Male
+LK_021,5/6/98,FB,"Florida Bay, FL",Male
+LK_022,5/6/98,FB,"Florida Bay, FL",Female
+LK_023,5/6/98,FB,"Florida Bay, FL",Female
+LK_024,5/6/98,FB,"Florida Bay, FL",Male
+LK_025,5/6/98,FB,"Florida Bay, FL",Female
+LK_026,5/5/98,FB,"Florida Bay, FL",Male
+LK_027,5/5/98,FB,"Florida Bay, FL",Male
+LK_028,5/5/98,FB,"Florida Bay, FL",Male
+LK_029,5/5/98,FB,"Florida Bay, FL",Female
+LK_030,5/5/98,FB,"Florida Bay, FL",Male
+LK_031,5/5/98,FB,"Florida Bay, FL",Male
+LK_032,5/5/98,FB,"Florida Bay, FL",Male
+LK_033,6/1/98,FB,"Florida Bay, FL",Female
+LK_034,6/1/98,FB,"Florida Bay, FL",Female
+PC_001,8/22/98,PC,"Panama City, FL",Male
+PC_002,5/21/98,PC,"Panama City, FL",Male
+PC_003,8/2/98,PC,"Panama City, FL",Female
+PC_004,9/23/99,PC,"Panama City, FL",Female
+PC_005,8/22/98,PC,"Panama City, FL",Male
+PC_006,6/18/98,PC,"Panama City, FL",Male
+PC_007,8/17/99,PC,"Panama City, FL",Male
+PC_008,5/21/98,PC,"Panama City, FL",Female
+PC_009,5/30/98,PC,"Panama City, FL",Female
+PC_010,4/8/99,PC,"Panama City, FL",Female
+PC_011,8/17/99,PC,"Panama City, FL",Male
+PC_012,8/22/98,PC,"Panama City, FL",Female
+PC_013,9/23/99,PC,"Panama City, FL",Male
+PC_014,7/8/99,PC,"Panama City, FL",Female
+PC_015,5/21/98,PC,"Panama City, FL",Female
+PC_016,6/11/98,PC,"Panama City, FL",Male
+PC_017,9/1/99,PC,"Panama City, FL",Male
+PC_018,8/17/99,PC,"Panama City, FL",Male
+PC_019,6/22/99,PC,"Panama City, FL",Female
+PC_020,9/23/99,PC,"Panama City, FL",Male
+PC_021,6/11/98,PC,"Panama City, FL",Male
+PC_022,4/14/98,PC,"Panama City, FL",Female
+PC_024,8/26/99,PC,"Panama City, FL",Male
+PC_025,8/17/99,PC,"Panama City, FL",Female
+PC_026,6/11/98,PC,"Panama City, FL",Female
+PC_027,9/23/99,PC,"Panama City, FL",Male
+PC_028,5/21/99,PC,"Panama City, FL",Female
+PC_029,4/14/98,PC,"Panama City, FL",Female
+PC_030,8/17/99,PC,"Panama City, FL",Male
+PC_031,8/17/99,PC,"Panama City, FL",Female
+PC_032,5/21/99,PC,"Panama City, FL",Female
+PC_036,6/11/98,PC,"Panama City, FL",Female
+PC_037,8/17/99,PC,"Panama City, FL",Female
+PC_038,5/21/99,PC,"Panama City, FL",Female
+PC_039,8/17/99,PC,"Panama City, FL",Female
+PC_040,5/30/98,PC,"Panama City, FL",Female
